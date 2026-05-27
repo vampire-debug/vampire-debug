@@ -1,5 +1,16 @@
 # 💫 About Me:
-🎓 Computer Science BTech student<br>💻 Interested in software development and problem-solving<br>🤖 Exploring AI-based systems and intelligent applications<br>📚 Strong foundation in core CS subjects (DSA, OS, CN, DBMS)<br>🚀 Passionate about learning, building projects, and improving code quality<br>🔍 Curious about how systems work under the hood<br>🌱 Continuously learning and upgrading technical skills
+
+🎓 Computer Science Engineering student passionate about technology and innovation
+💻 Interested in software development, problem-solving, and scalable applications
+🤖 Exploring Artificial Intelligence, Machine Learning, and intelligent systems
+📚 Strong understanding of core CS subjects including DSA, DBMS, Operating Systems, and Computer Networks
+🚀 Enthusiastic about building real-world projects and improving development skills
+🔍 Curious about system design, backend architecture, and how technologies work internally
+🌱 Continuously learning new tools, frameworks, and modern development practices
+📊 Interested in Data Science, analytics, and AI-driven solutions
+🤝 Active in internships, hackathons, tech communities, and collaborative projects
+✨ Focused on writing clean, efficient, and impactful code
+
 
 
 # 💻 Tech Stack:
